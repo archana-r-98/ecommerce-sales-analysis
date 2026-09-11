@@ -324,3 +324,33 @@ ecommerce-sales-analysis/
 │
 └── screenshots/
     └── dashboard.png
+
+---
+
+**## 🚀 Project Workflow**
+
+Raw Dataset
+     ↓
+Excel Data Inspection & Validation
+     ↓
+Oracle SQL Analysis
+     ↓
+Business Questions
+     ↓
+Business Insights
+     ↓
+Power BI Dashboard
+     ↓
+Interactive Reporting
+
+---
+
+**📷 Dashboard Preview**
+
+<img width="1322" height="737" alt="screenshotsdashboard png" src="https://github.com/user-attachments/assets/33bbb711-9c16-4d59-95f0-7cdac2a468cb" />
+
+---
+
+**👩‍💻 About the Project**
+
+This project was created as part of my transition into Data Analytics, with a focus on developing practical skills in SQL, Excel, Power BI, data analysis, and business intelligence.
