@@ -303,6 +303,15 @@ Based on the analysis:
 
 ---
 
+## 📂 Project Files
+
+- 📊 [Power BI Dashboard](Ecommerce_Sales_Analysis_Dashboard.pbix)
+- 🧮 [SQL Analysis](sql/sales_analysis.sql)
+- 📗 [Excel Workbook](excel/Ecommerce_Sales_Cleaned.xlsx)
+- 🖼️ [Dashboard Screenshot](screenshots/dashboard.png)
+
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -354,3 +363,4 @@ Interactive Reporting
 ## 👩‍💻 About the Project
 
 This project was created as part of my transition into Data Analytics, with a focus on developing practical skills in SQL, Excel, Power BI, data analysis, and business intelligence.
+
